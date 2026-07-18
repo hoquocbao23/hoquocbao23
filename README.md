@@ -78,17 +78,4 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hoquocbao23&show_icons=true&theme=default&hide_border=true&rank_icon=github" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoquocbao23&layout=compact&hide_border=true&langs_count=6" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoquocbao23&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
 <p align="center"><i>⭐ Thanks for visiting my profile! Feel free to connect.</i></p>
